@@ -1,4 +1,4 @@
-#Workshop online - Bando de dados e SQL para iniciantes
+#Workshop online - Banco de dados e SQL para iniciantes
 
 
 
